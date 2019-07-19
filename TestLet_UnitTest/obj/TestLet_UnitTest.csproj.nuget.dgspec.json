@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\TestLet_UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\Testlet\\Testlet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\Testlet\\Testlet.csproj",
+        "projectName": "Testlet",
+        "projectPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\Testlet\\Testlet.csproj",
+        "packagesPath": "C:\\Users\\KakuPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\Testlet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KakuPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\TestLet_UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\TestLet_UnitTest.csproj",
+        "projectName": "TestLet_UnitTest",
+        "projectPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\TestLet_UnitTest.csproj",
+        "packagesPath": "C:\\Users\\KakuPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KakuPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\Testlet\\Testlet.csproj": {
+                "projectPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\Testlet\\Testlet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

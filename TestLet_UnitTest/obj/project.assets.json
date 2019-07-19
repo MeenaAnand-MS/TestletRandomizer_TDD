@@ -5846,11 +5846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\UnitTestTestLet\\UnitTestTestLet.csproj",
-      "projectName": "UnitTestTestLet",
-      "projectPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\UnitTestTestLet\\UnitTestTestLet.csproj",
+      "projectUniqueName": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\TestLet_UnitTest.csproj",
+      "projectName": "TestLet_UnitTest",
+      "projectPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\TestLet_UnitTest.csproj",
       "packagesPath": "C:\\Users\\KakuPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\UnitTestTestLet\\obj\\",
+      "outputPath": "C:\\Users\\KakuPC\\source\\repos\\TestletRandomizer_TDD-master\\TestLet_UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
