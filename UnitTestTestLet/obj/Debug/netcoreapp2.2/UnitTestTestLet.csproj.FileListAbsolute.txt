@@ -1,0 +1,17 @@
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\obj\Debug\netcoreapp2.2\UnitTestTestLet.csproj.CoreCompileInputs.cache
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\obj\Debug\netcoreapp2.2\UnitTestTestLet.AssemblyInfoInputs.cache
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\obj\Debug\netcoreapp2.2\UnitTestTestLet.AssemblyInfo.cs
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\obj\Debug\netcoreapp2.2\UnitTestTestLet.csprojAssemblyReference.cache
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\UnitTestTestLet.deps.json
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\UnitTestTestLet.runtimeconfig.json
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\UnitTestTestLet.runtimeconfig.dev.json
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\UnitTestTestLet.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\UnitTestTestLet.pdb
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\Testlet.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\bin\Debug\netcoreapp2.2\Testlet.pdb
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\obj\Debug\netcoreapp2.2\UnitTestTestLet.csproj.CopyComplete
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\obj\Debug\netcoreapp2.2\UnitTestTestLet.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\UnitTestTestLet\obj\Debug\netcoreapp2.2\UnitTestTestLet.pdb

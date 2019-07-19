@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestletSln", "TestletSln", "{36D98C22-F01C-4FAE-88A0-433018FB0D73}"
+	ProjectSection(SolutionItems) = preProject
+		Testlet.sln = Testlet.sln
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestTestLet", "UnitTestTestLet\UnitTestTestLet.csproj", "{151F74B7-DAD8-46CF-85EC-BFE8886108B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testlet", "Testlet\Testlet.csproj", "{26C7363B-CC84-4C5B-AE22-EE1085DBB726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151F74B7-DAD8-46CF-85EC-BFE8886108B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151F74B7-DAD8-46CF-85EC-BFE8886108B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151F74B7-DAD8-46CF-85EC-BFE8886108B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151F74B7-DAD8-46CF-85EC-BFE8886108B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C7363B-CC84-4C5B-AE22-EE1085DBB726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C7363B-CC84-4C5B-AE22-EE1085DBB726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C7363B-CC84-4C5B-AE22-EE1085DBB726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C7363B-CC84-4C5B-AE22-EE1085DBB726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{151F74B7-DAD8-46CF-85EC-BFE8886108B7} = {36D98C22-F01C-4FAE-88A0-433018FB0D73}
+		{26C7363B-CC84-4C5B-AE22-EE1085DBB726} = {36D98C22-F01C-4FAE-88A0-433018FB0D73}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBA3FC7-2B2F-43A3-8B3B-14BC15CC1C86}
+	EndGlobalSection
+EndGlobal

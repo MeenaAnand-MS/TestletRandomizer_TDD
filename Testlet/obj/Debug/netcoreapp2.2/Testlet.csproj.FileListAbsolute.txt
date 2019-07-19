@@ -1,0 +1,8 @@
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.csproj.CoreCompileInputs.cache
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.AssemblyInfoInputs.cache
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.AssemblyInfo.cs
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\bin\Debug\netcoreapp2.2\Testlet.deps.json
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\bin\Debug\netcoreapp2.2\Testlet.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\bin\Debug\netcoreapp2.2\Testlet.pdb
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.dll
+C:\Users\KakuPC\source\repos\TestletRandomizer_TDD-master\Testlet\obj\Debug\netcoreapp2.2\Testlet.pdb
